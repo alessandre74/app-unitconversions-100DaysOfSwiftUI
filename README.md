@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-Desafio do curso 100 Days of SwiftUI, de um aplicativo de conversão de temperatura.
+Desafio do curso 100 Days of SwiftUI - Aplicativo de conversão de temperatura.
 
 ## 🚀 Tecnologias utilizadas
 
